@@ -1,0 +1,105 @@
+.sub-menu {
+  flex-wrap: wrap;
+}
+.main-manu ul {
+  flex-wrap: wrap;
+}
+.featured-posts,
+.col-2-feat,
+.col-2-1 {
+  flex-wrap: wrap;
+}
+.btn-absolute {
+  left: 0;
+}
+.f2,
+.f3 {
+  flex-basis: 48%;
+}
+.f2 h2,
+.f3 h2 {
+  font-size: 1.2rem;
+}
+.col-2-1 {
+  justify-content: space-between;
+}
+.inside p {
+  display: none;
+}
+.popular-stories {
+  flex-wrap: wrap;
+}
+.story {
+  flex-basis: 100%;
+}
+.trendingImg {
+  width: 40%;
+  padding: 10px;
+  float: left;
+}
+.story h4 {
+  float: right;
+  padding: 10px;
+  width: 60%;
+}
+.trendingIndex {
+  font-size: 1rem;
+  bottom: -160px;
+  left: 10px;
+  z-index: 1;
+}
+.news-wraper {
+  padding: 20px;
+  margin-bottom: 0;
+}
+.news {
+  flex-basis: 48%;
+  margin-top: 30px;
+}
+.category-wraper {
+  padding: 20px;
+  flex-direction: column;
+  max-width: 768px;
+}
+.category-title img {
+  max-width: 30%;
+}
+.cat-post {
+  padding-bottom: 10px;
+}
+.cat-sec2 {
+  justify-content: flex-start;
+}
+.fixedad {
+  max-width: 100%;
+}
+.feat-wraper {
+  max-width: 100%;
+}
+
+.showcaseVideo {
+  justify-content: space-evenly;
+}
+.partnership {
+  justify-content: space-evenly;
+}
+.partners {
+  padding-right: 20px;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.partners img {
+  width: 20%;
+}
+.f-wraper {
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 40px;
+  justify-content: space-evenly;
+}
+.f-second {
+  justify-content: center;
+}
+.f-about {
+  padding-left: 2rem;
+}

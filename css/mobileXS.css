@@ -1,0 +1,77 @@
+.sub-menu {
+  justify-content: center;
+}
+.btn-absolute {
+  font-size: 0.8rem;
+  padding: 5px 10px;
+  margin: 10px;
+}
+.inside h1,
+.inside-txt h1 {
+  font-size: 1.2rem;
+}
+.f2 h2,
+.f3 h2 {
+  font-size: 1.2rem;
+}
+.f2,
+.f3 {
+  flex-basis: 100%;
+}
+.trendingIndex {
+  bottom: -135px;
+}
+.newsletter {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.newsletter h2 {
+  font-size: 2rem;
+}
+input[type="email"] {
+  width: 80%;
+}
+.cat-sec1,
+.cat-sec2 {
+  flex-basis: 100%;
+}
+.cat-section {
+  flex-wrap: wrap;
+}
+.category-title {
+  flex-direction: column;
+  margin: 20px 0;
+}
+.showcaseVideo {
+  flex-direction: column;
+}
+.playList,
+.featVideo {
+  padding-bottom: 10px;
+}
+.partnership {
+  flex-direction: column;
+  padding: 20px;
+}
+.iconsSection {
+  margin-top: 50px;
+}
+.partnership {
+  text-align: center;
+}
+.partners {
+  padding-top: 0;
+}
+.partners img {
+  width: 50%;
+}
+.f-wraper {
+  flex-wrap: wrap;
+}
+.f-first {
+  flex-basis: 100%;
+  text-align: center;
+}
+.f-second {
+  margin-bottom: 20px;
+}
