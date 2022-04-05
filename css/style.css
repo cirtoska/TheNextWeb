@@ -312,9 +312,10 @@ button {
 .fixedad {
   max-width: 25%;
   padding-top: 50px;
+}
+.fixedad img {
   position: sticky;
-  top: 330px;
-  right: 50px;
+  top: 100px;
 }
 .feat-wraper {
   max-width: 70%;
